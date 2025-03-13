@@ -1,16 +1,17 @@
-
 # Backbook
 
 This project is a clone of the popular social media platform, Facebook, built using the MERN stack (MongoDB, Express.js, React.js, Node.js, and Socket.io) With real time Messages and notifications 🔥.
 
 ## Demo
-https://backbook.vercel.app
+
+[https://backbook.vercel.app](https://backbook.vercel.app)
 
 ## Frontend Repository
-https://github.com/msobkyy/backbook
+[https://github.com/rumonkh0/myobook](https://github.com/rumonkh0/myobook)
 
 ## Api Documentation
-[Documentation](https://documenter.getpostman.com/view/17180740/2s8Z73yrAk) 
+
+[Documentation](https://documenter.getpostman.com/view/17180740/2s8Z73yrAk)
 
 ## Features
 
@@ -50,7 +51,6 @@ https://github.com/msobkyy/backbook
 - Light/dark mode toggle.
 - Skeleton loaders while page loads.
 
-
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/106025042/212144889-bb0c3c7d-9cc4-47d1-9e1e-eebc450260c7.jpg)
@@ -88,14 +88,12 @@ npm install
 npm start
 ```
 
-
-
 ## Deployment
 
 To deploy this project run
 
 ```bash
-  npm run build
+npm run build
 ```
 
 ## Environment Variables
@@ -124,21 +122,18 @@ To run this project, you will need to add the following environment variables to
 `CLOUDINARY_API_SECRET=`
 `FCM_SERVER_KEY=`
 
-
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msobkyy/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vsobky)
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumonkh/)
+[![twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rmonkhan)
 
 ## Authors
 
-- [@msobkyy](https://www.github.com/msobkyy)
-
+- [@rumonkh0](https://www.github.com/rumonkh0)
 
 ## 🚀 About Me
+
 I'm a MERN Stack Developer
-
-
 
 ## Tech Stack
 
